@@ -245,7 +245,7 @@ By strengthening discount governance, improving billing accuracy, activating ups
 Overall, this project highlights the importance of combining financial analytics with customer behavior insights to transform raw data into actionable business decisions and sustainable revenue growth.
 
 📸 **Preview:**
-![Alt text](https://github.com/Akinlade-Opeyemi-Mary/Amazon-Product-Review-Analysis-Excel/blob/59500ce7128fb8331c47cfe6dc21ad6a7e98fbcb/Excel%20Dashboard.JPG.png)
+![Alt text]([https://github.com/Akinlade-Opeyemi-Mary/Amazon-Product-Review-Analysis-Excel/blob/59500ce7128fb8331c47cfe6dc21ad6a7e98fbcb/Excel%20Dashboard.JPG.pn](https://github.com/Akinlade-Opeyemi-Mary/Revenue-Leakage-Detection-Analysis/blob/main/18.01.2026_23.36.59_REC-removebg-preview.png))
 
 
 ## 👤 Author | Connect With Me
